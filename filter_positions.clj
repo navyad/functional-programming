@@ -4,4 +4,4 @@
 (defn odd_sum
   [ele_list]
   (doseq [[index ele] (map-indexed vector ele_list)]
-    (println index ele)))
+    (index ele)))
