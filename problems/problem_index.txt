@@ -1,5 +1,5 @@
 === basics problems ===
-problem_1: Find the first and last element
-problem_2: Find the Kth element 
-problem_3: Reverse all elements
-problem_4: Find if list/vector is palindrome or not.
+Find the first and last element
+Find the Kth element 
+Reverse all elements
+Find if list/vector is palindrome or not.
