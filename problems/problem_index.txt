@@ -1,5 +1,11 @@
 === basics problems ===
-Find the first and last element
-Find the Kth element 
-Reverse all elements
-Find if list/vector is palindrome or not.
+1) Find the first and last element
+2) Find the Kth element 
+3) sort (ascending/descedending) all elements
+4) Find if list/vector is palindrome or not.
+5) Eliminate duplicates elements
+6) Duplicate all elements
+7) Replicate each element n times
+8) search element
+9) rotate elements N places to left
+10) remove Kth element
