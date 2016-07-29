@@ -1,4 +1,4 @@
-(ns problem_1.clj)
+(ns first_last.clj)
 (defn first-ele
   "Returns first element of vector or list"
   [arg]
