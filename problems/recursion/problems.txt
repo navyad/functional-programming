@@ -1,0 +1,5 @@
+1). input parameter N, and return Nththe Fibonacci term
+    .g.:
+	fibonacci(3) = (0+1) = 1  
+	fibonacci(4) = (1+1) = 2  
+	fibonacci(5) = (1+2) = 3  
