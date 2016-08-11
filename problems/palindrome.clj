@@ -6,6 +6,7 @@
 
 
 (defn element-compare 
+  "compare element of a data"
   [index data]
   (= (get data index) (get data (rear-index (count data) index)) ))
 
@@ -15,4 +16,11 @@
     (element-compare index arg))
 )
 
-(println (check-palindrome [11 22 33 22 11]))
+
+(defn is-palindrome
+  "retuns boolean if arg is palindrome or not"
+  [arg]
+  (every? true? arg))
+
+(println (is-palindrome (check-palindrome [11 22 33 22 11])))
+(println (is-palindrome (check-palindrome [11 22 33 44 11])))
