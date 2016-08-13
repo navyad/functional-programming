@@ -1,2 +1,2 @@
 # clojure-scripts
-Learning Clojure programming language.
+Learning Clojure programming language (in progress)
