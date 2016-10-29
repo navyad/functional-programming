@@ -1,2 +1,2 @@
-# clojure-scripts
-Learning Clojure programming language (in progress)
+# Learning functional programming
+Trying out functional languages haskell, clojure.
