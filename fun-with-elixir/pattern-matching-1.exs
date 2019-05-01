@@ -20,8 +20,13 @@ defmodule MATCH do
   end
     
   def fail_4 do
+    # once value of left is bind, it will remain same 
     [x, x] = [1, 2]
   end
+
+  def fail_5 do
+    x, y = [10, 20]
+    x, x = [10, 20]
 end
 
 
